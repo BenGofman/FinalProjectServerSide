@@ -1,0 +1,45 @@
+C:\Users\ruppin\Desktop\final\ClassLibrary\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+C:\Users\ruppin\Desktop\final\ClassLibrary\ClassLibrary\bin\Debug\net8.0\ClassLibrary.runtimeconfig.json
+C:\Users\ruppin\Desktop\final\ClassLibrary\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+C:\Users\ruppin\Desktop\final\ClassLibrary\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+C:\Users\ruppin\Desktop\final\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\ruppin\Desktop\final\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruppin\Desktop\final\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\ruppin\Desktop\final\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\ruppin\Desktop\final\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ruppin\Desktop\final\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+C:\Users\ruppin\Desktop\final\ClassLibrary\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+C:\Users\ruppin\Desktop\final\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+C:\Users\ruppin\Desktop\final\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.genruntimeconfig.cache
+C:\Users\ruppin\Desktop\final\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll
+C:\Users\Ben Gofman\Desktop\final\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Ben Gofman\Desktop\final\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben Gofman\Desktop\final\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Ben Gofman\Desktop\final\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Ben Gofman\Desktop\final\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ben Gofman\Desktop\final\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+C:\Users\Ben Gofman\Desktop\final\ClassLibrary\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+C:\Users\Ben Gofman\Desktop\final\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+C:\Users\Ben Gofman\Desktop\final\ClassLibrary\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+C:\Users\Ben Gofman\Desktop\final\ClassLibrary\ClassLibrary\bin\Debug\net8.0\ClassLibrary.runtimeconfig.json
+C:\Users\Ben Gofman\Desktop\final\ClassLibrary\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+C:\Users\Ben Gofman\Desktop\final\ClassLibrary\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+C:\Users\Ben Gofman\Desktop\final\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.genruntimeconfig.cache
+C:\Users\Ben Gofman\Desktop\final\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll
+C:\Users\ruppin\Desktop\final\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.sourcelink.json
+C:\Users\Ben Gofman\Desktop\final\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.sourcelink.json
+C:\Users\Ben Gofman\Desktop\Final + ClientSide\ClassLibrary\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+C:\Users\Ben Gofman\Desktop\Final + ClientSide\ClassLibrary\ClassLibrary\bin\Debug\net8.0\ClassLibrary.runtimeconfig.json
+C:\Users\Ben Gofman\Desktop\Final + ClientSide\ClassLibrary\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+C:\Users\Ben Gofman\Desktop\Final + ClientSide\ClassLibrary\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+C:\Users\Ben Gofman\Desktop\Final + ClientSide\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Ben Gofman\Desktop\Final + ClientSide\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben Gofman\Desktop\Final + ClientSide\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Ben Gofman\Desktop\Final + ClientSide\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Ben Gofman\Desktop\Final + ClientSide\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ben Gofman\Desktop\Final + ClientSide\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.sourcelink.json
+C:\Users\Ben Gofman\Desktop\Final + ClientSide\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+C:\Users\Ben Gofman\Desktop\Final + ClientSide\ClassLibrary\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+C:\Users\Ben Gofman\Desktop\Final + ClientSide\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+C:\Users\Ben Gofman\Desktop\Final + ClientSide\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.genruntimeconfig.cache
+C:\Users\Ben Gofman\Desktop\Final + ClientSide\ClassLibrary\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll

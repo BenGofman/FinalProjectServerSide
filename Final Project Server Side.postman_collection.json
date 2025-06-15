@@ -1,0 +1,221 @@
+{
+	"info": {
+		"_postman_id": "55c86f47-319e-4cc8-8464-7766b40232b9",
+		"name": "Final Project Server Side",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "38367055"
+	},
+	"item": [
+		{
+			"name": "Create new Event",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"name\": \"Hiking in Haifa\",\r\n  \"startDate\": \"2025-07-01T09:00:00\",\r\n  \"endDate\": \"2025-07-01T17:00:00\",\r\n  \"maxRegistrations\": 200,\r\n  \"location\": \"Sami Ofer\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5201/api/Events/event",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5201",
+					"path": [
+						"api",
+						"Events",
+						"event"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Register user to event",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\": \"Liad Mandil\",\r\n    \"dateOfBirth\": \"1992-05-19\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5201/api/Events/1/registrations",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5201",
+					"path": [
+						"api",
+						"Events",
+						"1",
+						"registrations"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "See Users in Event",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5201/api/Events/2/registrations",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5201",
+					"path": [
+						"api",
+						"Events",
+						"2",
+						"registrations"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Event",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5201/api/Events/2/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5201",
+					"path": [
+						"api",
+						"Events",
+						"2",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update exsiting event",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"name\": \"Tech Conference NYC 2025\",\r\n  \"startDate\": \"2025-07-10T09:00:00\",\r\n  \"endDate\": \"2025-07-10T17:00:00\",\r\n  \"maxRegistrations\": 150,\r\n  \"location\": \"Moscow\" \r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5201/api/Events/2/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5201",
+					"path": [
+						"api",
+						"Events",
+						"2",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete event",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5201/api/Events/1/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5201",
+					"path": [
+						"api",
+						"Events",
+						"1",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Schedule",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5201/api/Events/schedule?startDate=2025-07-01&endDate=2025-08-30",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5201",
+					"path": [
+						"api",
+						"Events",
+						"schedule"
+					],
+					"query": [
+						{
+							"key": "startDate",
+							"value": "2025-07-01"
+						},
+						{
+							"key": "endDate",
+							"value": "2025-08-30"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get event weather",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5201/api/Events/2/weather",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5201",
+					"path": [
+						"api",
+						"Events",
+						"2",
+						"weather"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

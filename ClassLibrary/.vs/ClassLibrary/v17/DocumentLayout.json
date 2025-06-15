@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ben Gofman\\Desktop\\Final \u002B ClientSide\\ClassLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99390D77-ACAF-4764-84BA-14C294EF8989}|WebApplication1\\WebApplication1.csproj|c:\\users\\ben gofman\\desktop\\final \u002B clientside\\classlibrary\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99390D77-ACAF-4764-84BA-14C294EF8989}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2DF62F-67D6-414E-BFCF-EDAE4801C3BB}|client\\client.csproj|c:\\users\\ben gofman\\desktop\\final \u002B clientside\\classlibrary\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2DF62F-67D6-414E-BFCF-EDAE4801C3BB}|client\\client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ben Gofman\\Desktop\\Final \u002B ClientSide\\ClassLibrary\\client\\Program.cs",
+              "RelativeDocumentMoniker": "client\\Program.cs",
+              "ToolTip": "C:\\Users\\Ben Gofman\\Desktop\\Final \u002B ClientSide\\ClassLibrary\\client\\Program.cs",
+              "RelativeToolTip": "client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T11:55:12.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ben Gofman\\Desktop\\Final \u002B ClientSide\\ClassLibrary\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Ben Gofman\\Desktop\\Final \u002B ClientSide\\ClassLibrary\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T09:49:46.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
